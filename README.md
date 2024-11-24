@@ -1,7 +1,11 @@
+
 .👋 Hi, I’m @esmaeiliamin
+
 . 👀 I’m interested in Machine learning engineering
+
 . 🌱 I’m currently learning NLP
-. 📫 How to reach me : aminesmaeili439@gmail.com
+
+. 📫 How to reach me:aminesmaeili439@gmail.com
 
 
 🖥 Skills
