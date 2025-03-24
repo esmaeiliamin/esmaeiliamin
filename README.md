@@ -12,9 +12,13 @@
 
 🖥 Skills
 
+- Numpy
+- Pandas
+- Sklearn
 - Machine Learning
+- Pytorch
 - Deep Learning
-- Natural Language Processing
+
 
   
 
