@@ -2,7 +2,7 @@
 # Amin Esmaeili
 
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/amin-esmaeili-73663a227/)
-[![Instagram Badge]()
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-purple?logo=instagram&logoColor=white&link=https://instagram.com/amin_esmaeili4030/)](https://www.instagram.com/amin_esmaeili4030)
 [![Gmail]()
 [![Github]()
 
