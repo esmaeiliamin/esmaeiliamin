@@ -6,7 +6,7 @@
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:aminesmaeili439@gmail.com)
 [![Github](https://img.shields.io/github/followers/hejazizo?label=Follow&style=social)](https://github.com/esmaeiliamin)
 
-- 💻 I Work freelance in LLM Engineering 
+- 💻 I Work freelance in AI Engineering 
 - 📫 How to reach me: aminesmaeili439@gmail.com
 
 
