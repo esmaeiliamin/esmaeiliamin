@@ -15,7 +15,7 @@
 - Vibe Engineering
 - Deep Learning
 - Agentops
-- Agentic Coding
+- Agentic AI
 - Multi Agent System
 ### ⚙️ Tech Stack
 
