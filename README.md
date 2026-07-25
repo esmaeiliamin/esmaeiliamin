@@ -12,9 +12,9 @@
 
 ### 🖥 Skills
 
-- Vibe Engineering
-- Deep Learning
-- Agentops
+- AI Engineering 
+- Claude coding
+- AgentOps
 - Agentic AI
 - Multi Agent System
 ### ⚙️ Tech Stack
