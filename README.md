@@ -15,7 +15,7 @@
 - AI Engineering 
 - Claude coding
 - AgentOps
-- Agentic AI
+- Agentic RAG
 - Multi Agent System
 ### ⚙️ Tech Stack
 
