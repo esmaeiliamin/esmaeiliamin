@@ -13,7 +13,7 @@
 ### 🖥 Skills
 
 - AI Engineering 
-- Claude coding
+- Agentic coding
 - AgentOps
 - Agentic RAG
 - Multi Agent System
